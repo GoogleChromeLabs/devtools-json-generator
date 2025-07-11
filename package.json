@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
+  "repository": "googlechromelabs/devtools-json-generator",
   "bin": {
     "generate-devtools-json": "./index.js"
   },
