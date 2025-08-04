@@ -9,13 +9,13 @@ This tool generates a `devtools.json` file for use with [Chrome DevTools' "Works
 To generate the `devtools.json` file in the current directory, run:
 
 ```bash
-npx generate-devtools-json
+npx devtools-json-generator
 ```
 
 To generate the file in a specific directory, pass the directory as an argument:
 
 ```bash
-npx generate-devtools-json /path/to/your/project
+npx devtools-json-generator /path/to/your/project
 ```
 
 ### Programmatic Usage
