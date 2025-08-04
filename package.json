@@ -1,6 +1,6 @@
 {
   "name": "devtools-json-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "type": "module",
   "repository": "googlechromelabs/devtools-json-generator",
